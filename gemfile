@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+gem 'rubycop'
+gem 'pry'
+gem 'nokogiri'
+gem 'rspec'
+gem 'restclient'
